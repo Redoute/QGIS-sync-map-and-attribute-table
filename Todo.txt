@@ -1,0 +1,6 @@
+- optionally? highlight current feature
+- enable toggle in undocked table
+- enable synchronize in form view
+- menu entry with status indicator?
+- simplify moveCanvas() if possible
+- i18n

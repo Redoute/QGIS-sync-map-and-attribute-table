@@ -1,0 +1,12 @@
+[general]
+name=Sync map and attribute table
+qgisMinimumVersion=2.18
+description=Let the map canvas follow your activity in the attribute table.
+about=Click on a cell of an attribute table and choose Vector, Sync map and attribute table, Toggle synchronizing. Or press the shortcut F12 (configurable). This currently works only when the attribute table is docked and in table grid view.
+ The map canvas then will center on each feature which has keyboard focus in the attribute table.
+version=version 0.20170918
+author=Kai Borgolte (FORPLAN DR. SCHMIEDEL GmbH)
+email=borgolte@forplan.de
+experimental=True
+repository=
+category=vector
